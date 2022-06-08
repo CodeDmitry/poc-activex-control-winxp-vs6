@@ -1,6 +1,18 @@
 # poc_activex_control_winxp_vs6
 proof of concept for creating ActiveX controls for Windows XP/Internet Explorer.
 
+INTERNET EXPLORER!? WINDOWS XP!? WHY:
+
+Internet Explorer does have plenty of security holes, however they are not an issue unless you are visiting untrusted sites that are waiting to take advantage of these security flaws. ActiveX gives us a unique power to run arbitrary programs on the webpage itself, which has became the foundation for technologies such as Adobe Flash(which to date has no reasonable alternatives) and Java applets. This tutorial will give you a foundational ability to
+build similar frameworks/games/simulations/web-tools that work on older and more accessible systems. Had it not been for users shooting themselves in the  foot by being too trusting, letting malicious agents run full-fletched executables on their machines, we could still write web-tools/games and more that would work all the way from windows 95 to windows 10, instead, we are entering a new age where we are at a genuine risk of software not being able to
+run at all unless it is signed by a developer whose name is registered in a web-store, greatly restricting the number of developers even willing to write code at all, as putting your name on the internet is not something everyone wants to do in this hyper-competitive cutthroat world.
+
+This project will bring you back to a time when "always logged in" was still considered a terrible idea security wise, but at the same time, there were no restrictions on what you could and could not do with your computer. The fact that what is demonstrated in this demonstration is still possible, is 
+a testamount to the love and effort put into these tools, as in the future, people trying to do things as they were in 2022 may not be possible, because of new versions of more aggressive DRM.
+
+I was not able to do any of this back when this was still a thing people did, as I was relatively new to programming and the technology flew over my head,
+but now that I am older and slightly more competent, I want to offer this demonstration so that at the very least, I can demonstrate basic understanding of the technology, and maybe somebody else finds it interesting.
+
 Pre-requisites:
 
 1. Internet Information Services or XAMPP or WAMPP or some kind of HTTP server capable of serving html and ocx files.
