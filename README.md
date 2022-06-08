@@ -9,4 +9,6 @@ proof of concept for creating ActiveX controls for Windows XP/Internet Explorer.
 
 ![picture of an ActiveX control designer with a label that reads hello world](assets/step02.png)
 
-3. Press f5 and 
+3. Press f5, to see the following dialog, titled "project properties", and press ok
+![project properties dialog that appears upon pressing the f5 key](assets/step03.png)
+
